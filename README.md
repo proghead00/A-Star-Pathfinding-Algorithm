@@ -1,4 +1,4 @@
-# A Star Pathfinding Algorithm 🌟
+# A* Pathfinding Algorithm 🌟
 ## Implemented with pygame, this script will find the shortest distance between two nodes using A* Algorithm 🎮
 
 ## Instructions/ Keys Functionalities :
