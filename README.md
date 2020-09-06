@@ -4,7 +4,7 @@
 ## Instructions/ Keys Functionalities :
 * ### Left Click to add start and end nodes
 * ### Right Click to remove the nodes
-* ### Space Bar to start finding
+* ### Space Bar to start finding the shortest distance
 * ### 'C' to clear and reset the grid
 
 ## Requirements:
